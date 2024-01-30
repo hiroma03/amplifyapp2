@@ -1,0 +1,27 @@
+{
+  "function": {
+    "amplifyapp2c077e5a1": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_amplifyapp2c077e5a1_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "amplifyapp2c077e5a1"
+        }
+      ]
+    },
+    "AMPLIFY_function_amplifyapp2c077e5a1_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "amplifyapp2c077e5a1"
+        }
+      ]
+    }
+  }
+}
